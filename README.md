@@ -7,3 +7,9 @@ colors:
 * #F2B6A0 (salmon pink)
 * #A64F3C (pinkish red)
 
+## MVP:
+* navbar
+* architecture (brief description)
+* part A software,image on the right, text on the left
+* part A hardware,image on the left, text on the right
+* 
