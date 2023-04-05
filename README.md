@@ -12,4 +12,6 @@ colors:
 * architecture (brief description)
 * part A software,image on the right, text on the left
 * part A hardware,image on the left, text on the right
-* 
+* Div that stretches to ful computer screen, says __*Future*__
+*  * Bootstrap card with image on top, text will be about the __*hologram idea*__
+* * another Bootstrap card with image on top, text will be about the __*planner programmer/social media*__
