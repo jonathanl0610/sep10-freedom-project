@@ -9,7 +9,7 @@ colors:
 
 ## MVP:
 * navbar
-* architecture (brief description)
+* carousel with images; architecture the middle (brief description)
 * part A software,image on the right, text on the left
 * part A hardware,image on the left, text on the right
 * Div that stretches to ful computer screen, says __*Future*__
