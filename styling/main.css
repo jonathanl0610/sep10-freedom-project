@@ -12,6 +12,7 @@ p {
 }
 
 #serve {
+  float: left;
   margin-left: 40px;
   margin-top: 40px;
   width: 250px;
@@ -19,5 +20,6 @@ p {
 }
 
 h2 {
+  float: left;
   text-align: right;
 }/*# sourceMappingURL=main.css.map */
