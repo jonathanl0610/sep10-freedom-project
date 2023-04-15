@@ -28,7 +28,7 @@ li {
   margin-top: 20px;
   width: 550px;
   height: 250px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 h2 {
@@ -37,4 +37,7 @@ h2 {
 
 #old {
   float: right;
+  width: 550px;
+  height: 250px;
+  border-radius: 10px;
 }/*# sourceMappingURL=main.css.map */
