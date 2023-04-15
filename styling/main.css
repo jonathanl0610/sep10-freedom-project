@@ -44,8 +44,10 @@ h2 {
 }
 
 #qbert {
+  color: white;
   background: black;
-  border-radius: 90px;
+  border-radius: 5px;
   length: 400px;
+  height: 60px;
   text-align: center;
 }/*# sourceMappingURL=main.css.map */
