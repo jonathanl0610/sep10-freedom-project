@@ -1,9 +1,17 @@
 body {
+  font-weight: bold;
+  font-size: 16px;
+  font-kerning: auto;
+  font-stretch: 50%;
   background: #9BCAF2;
 }
 
 p {
   color: #F2B6A0;
+}
+
+h5 {
+  color: #98A62D;
 }
 
 li {
