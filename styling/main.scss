@@ -1,56 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-    font-weight: bold;
-    font-size: 1.8rem;
-    font-kerning: auto;
-    font-stretch: 50%;
-    background:  #9BCAF2;
-    // margin-bottom: 20px;
+  background: #d2d5d5;
 }
-p {
-    color: #A64F3C;
-}
-h5 {
-    color: #98A62D;
-}
+p,
 li {
-    color: #A64F3C;
+  font-weight: 500;
+  font-size: 1.8rem;
+  line-height: 1.6;
+  color: #4b5759;
+  margin: 1.3rem;
+}
+h1,
+h2,
+.card-body > h2 {
+  color: #041f1e;
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 2rem 0;
+}
+.custom-carousel {
+  padding: 5rem;
 }
 
 .soft {
+  width: 800px;
+}
 
-    text-align: left;
-    margin-top: 20px;
+.custom-card {
+  background-color: #fef7f3;
 }
 
 #serve {
-    float: left;
-    // margin-left: 40px;
-    margin-top: 20px;
-   width: 550px;
-   height: 250px;
-   border-radius: 10px;
-}
-h2 {
-    margin-top: 20px;
-    color: #2C4001;
-    // float: right;
-    // text-align: right
+  float: left;
+  // margin-left: 40px;
+  margin-top: 20px;
+  width: 550px;
+  height: 250px;
+  border-radius: 10px;
 }
 
 #old {
-    // margin-left: 300px;
-    float: right;
-    width: 550px;
-   height: 250px;
-   border-radius: 10px;
+  // margin-left: 300px;
+  float: right;
+  width: 550px;
+  height: 250px;
+  border-radius: 10px;
 }
 
 #qbert {
-    color: white;
-    background: black;
-    border-radius: 5px;
-    // width: 5000px;
-    length: 200px;
-    height: 60px;
-    text-align: center;
+  color: #d6a389;
+  background: #354244;
+  font-weight: 700;
+  letter-spacing: 5px;
+  height: 6.5rem;
+  text-align: center;
 }
