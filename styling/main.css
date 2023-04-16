@@ -1,21 +1,20 @@
 body {
   font-weight: bold;
   font-size: 1.8rem;
-  font-kerning: auto;
-  font-stretch: 50%;
-  background: #9BCAF2;
+  line-height: 1.6;
+  background: #9bcaf2;
 }
 
 p {
-  color: #A64F3C;
+  color: #3d1f19;
 }
 
 h5 {
-  color: #98A62D;
+  color: #98a62d;
 }
 
 li {
-  color: #A64F3C;
+  color: #a64f3c;
 }
 
 .soft {
@@ -25,15 +24,17 @@ li {
 
 #serve {
   float: left;
-  margin-top: 20px;
   width: 550px;
   height: 250px;
   border-radius: 10px;
+  margin-top: 4rem;
+  margin-right: 3rem;
+  margin-bottom: 3rem;
 }
 
 h2 {
   margin-top: 20px;
-  color: #2C4001;
+  color: #2c4001;
 }
 
 #old {
@@ -50,4 +51,4 @@ h2 {
   length: 200px;
   height: 60px;
   text-align: center;
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
