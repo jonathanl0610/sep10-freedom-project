@@ -3,7 +3,6 @@
 }
 
 body {
-  font-family: "mukta" !important;
   background: #d2d5d5;
 }
 p,
@@ -62,6 +61,7 @@ h2,
 }
 
 @mixin text-style {
+  font-family: "mukta" !important;
   font-weight: 500;
   font-size: 1.8rem;
 }
