@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+.pixelated {
+  image-rendering: crisp-edges;
+}
+
 body {
   background: #d2d5d5;
 }
