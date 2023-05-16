@@ -59,4 +59,15 @@ h2,
   letter-spacing: 5px;
   height: 6.5rem;
   text-align: center;
-} /*# sourceMappingURL=main.css.map */
+}
+
+p,
+li {
+  font-weight: 500;
+  font-size: 1.8rem;
+  line-height: 1.6;
+  color: #4b5759;
+  margin: 1.3rem;
+}
+
+/*# sourceMappingURL=main.css.map */
